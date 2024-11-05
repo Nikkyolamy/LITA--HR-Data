@@ -1,11 +1,26 @@
 # LITA-HR DATA
 
-This is where I documented my projects and classes while learning data analysis with The Incubator Hub, through LITA
+The documentation of the Class HR data analysis, while learning data analysis with The Incubator Hub, through LITA
 
  [DATA VISUALIZATIONS](#data-visualization)
 
+ ## PROJECT OVERVIEW
+ This  project explored HR data to ....
+
+## DATA SOURCES
+The data was gotten from HR data excel file
+
+
+ ## PROJECT OBJECTIVES
+ ....ask chat gpt.
+
  
- tools used
+ ## TOOLS USED
+power Bi tool was used for data building intercative visuals. 
+
+
+
+ 
 ---
 ### Project Title: E commerce Sales Analysis
 this data analysis project aims to generate insight into the sales
