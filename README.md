@@ -1,4 +1,5 @@
-# LITA-Class-Documentation
+# LITA-HR DATA
+
 This is where I documented my projects and classes while learning data analysis with The Incubator Hub, through LITA
 
  [DATA VISUALIZATIONS](#data-visualization)
