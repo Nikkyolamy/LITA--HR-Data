@@ -4,19 +4,38 @@ The documentation of the Class HR data analysis, while learning data analysis wi
 
  [DATA VISUALIZATIONS](#data-visualization)
 
- ## PROJECT OVERVIEW
+ ### PROJECT OVERVIEW
  This  project explored HR data to ....
 
-## DATA SOURCES
+### DATA SOURCES
 The data was gotten from HR data excel file
 
 
- ## PROJECT OBJECTIVES
+ ### PROJECT OBJECTIVES
  ....ask chat gpt.
 
  
- ## TOOLS USED
+### TOOLS USED
 power Bi tool was used for data building intercative visuals. 
+
+### EXPLORATORY DATA ANALYSIS 
+ask chat gpt
+
+### DATA ANALYSIS 
+This shows and includes the formulars, basic lines of codes used and DAX expressions used during the analysis.
+(copy and paste from powerbi)
+
+### DATA VISUALIZATIONS
+Drag the screenshot of dashboard. 
+
+
+
+### FINAL ANALYSIS OUTCOME.
+1. Problem Identification
+2. Key Insights and Inferences
+3. Recommendations
+
+
 
 
 
