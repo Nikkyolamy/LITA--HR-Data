@@ -6,6 +6,7 @@ The documentation of the Class HR data analysis, while learning data analysis wi
  ### PROJECT OVERVIEW
  This  project focuses on understanding the factors driving employee attrition within the organization, aiming to identify high-risk groups, key drivers of turnover, and actionable solutions to improve retention.
 
+---
 
  ### PROJECT OBJECTIVES
 The objective of the project is to:
@@ -40,7 +41,20 @@ This shows and includes the formulars, basic lines of codes used and DAX express
 ---
 
 ### DATA VISUALIZATIONS
-Drag the screenshot of dashboard. 
+
+![Screenshot (15)](https://github.com/user-attachments/assets/1db8952c-0b65-463a-b416-7183ba1b5e94)
+
+
+
+
+
+
+
+![Screenshot (17)](https://github.com/user-attachments/assets/e3759ef3-3b4a-4a5c-aaf2-a5e380457c49)
+
+
+---
+
 
 
 
